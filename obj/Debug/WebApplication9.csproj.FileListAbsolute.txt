@@ -70,3 +70,5 @@ C:\Users\Admin\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplica
 C:\Users\Admin\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csproj.CopyComplete
 C:\Users\Admin\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
 C:\Users\Admin\source\repos\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+G:\GItLearningTest\a\abc\A\obj\Debug\WebApplication9.dll
+G:\GItLearningTest\a\abc\A\obj\Debug\WebApplication9.pdb
